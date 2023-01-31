@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wecare/static/css/main.be2c3284.css",
+    "main.js": "/wecare/static/js/main.5277166c.js",
+    "static/js/787.c7283366.chunk.js": "/wecare/static/js/787.c7283366.chunk.js",
+    "index.html": "/wecare/index.html",
+    "main.be2c3284.css.map": "/wecare/static/css/main.be2c3284.css.map",
+    "main.5277166c.js.map": "/wecare/static/js/main.5277166c.js.map",
+    "787.c7283366.chunk.js.map": "/wecare/static/js/787.c7283366.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be2c3284.css",
+    "static/js/main.5277166c.js"
+  ]
+}
